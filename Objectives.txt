@@ -1,0 +1,14 @@
+Issues:
+
++ table columns need to be adjusted, such that numbers must not have too much space, so it looks like a proper sheet.
++ sub total and toal must be properly aligned with bottom borders
++ margin needs to be adjusted
++ logo must be cropped, bottom border must be removed
++ fonts are now too too big, needs to be adjusted
++ background color needs to be lighter, see the subtle grey used by github
++ for the bottom, need to turn the logo and texts grey and small.
+
+Instead of Name, Date and Number in this format, try going for something lke this, so can follow on later instances:
+See the from and to parts from this:
+https://d3ui957tjb5bqd.cloudfront.net/images/screenshots/products/17/172/172847/html-invoice-temp-o.jpg?1409326703
+try and do something along these lines, does not necessarily have to follow the corel template.
