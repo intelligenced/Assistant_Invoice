@@ -1,6 +1,10 @@
 .assistant_grey{
 	background-color: grey;
 }
-.idgaf{
-	background-color: grey;
+.table > tbody > tr > .highrow{
+	 border-top: 3px solid;
+}
+.table > tbody > tr > .emptyrow{
+	border-bottom: none;
+	border-top: none;
 }
