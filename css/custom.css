@@ -1,10 +1,13 @@
 .assistant_grey{
-	background-color: grey;
+	background-color: rgb(226, 226, 226);
 }
-.table > tbody > tr > .highrow{
+.table > tbody > tr > .highrow {
 	 border-top: 3px solid;
 }
-.table > tbody > tr > .emptyrow{
+.table > tbody > tr > .emptyrow {
 	border-bottom: none;
 	border-top: none;
+}
+.test{
+	background-color: rgb(226, 226, 226);
 }
